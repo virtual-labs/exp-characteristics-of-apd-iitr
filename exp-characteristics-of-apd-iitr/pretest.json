@@ -1,0 +1,5 @@
+[{"question":"The phenomenon leading to avalanche breakdown in reverse-biased diodes is known as Impact ionization. State True/False?","answers":{"a":"True","b":"False"},"correctAnswer":"a"},
+{"question":"___________ has more sophisticated structure than p-i-n photodiode.","answers":{"a":"p-n junction diode","b":"Avalanche photodiode","c":"Zener diode","d":"Varactor diode"},"correctAnswer":"b"},
+{"question":"At high gain, avalanche buildup time ________.","answers":{"a":"Is negligible","b":"Dominates","c":"Very less","d":"Increases gradually"},"correctAnswer":"b"},
+{"question":"Often __________ pulse shape is obtained from APD.","answers":{"a":"Distorted","b":"Negligible","c":"Symmetric","d":"Asymmetric"},"correctAnswer":"d"},
+{"question":"Fall times of 2 ns or more are common. State True/False?","answers":{"a":"True","b":"False"},"correctAnswer":"b"}]
