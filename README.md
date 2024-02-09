@@ -11,8 +11,6 @@
 
 To study the Reverse Bias Characteristics of Avalanche Photo Diode(APD) and plot the VI Characteristics and to determine the Responsivity and Quantum efficiency.
 
-Objectives:-  To study the Reverse Bias Characteristics of Avalanche Photo Diode(APD) and plot the VI Characteristics and to determine the Responsivity and Quantum efficiency.
-
 <b>Name of Developer | <b> Prof. RS Anand
 :--|:--|
 <b> Institute | <b> IIT Roorkee
