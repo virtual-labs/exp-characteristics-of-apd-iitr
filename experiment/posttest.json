@@ -1,7 +1,0 @@
-[{"question":"Determine Responsivity of a silicon RAPD with 80% efficiency, 0.7μm wavelength.","answers":{"a":0.58,"b":0.459,"c":0.256,"d":0.1},"correctAnswer":"b"},
-{"question":"How many types of optical detectors are available?","answers":{"a":"three","b":"four","c":"two","d":"one"},"correctAnswer":"a"},
-{"question":"The photocurrent of an optical detector should be __________.","answers":{"a":"Non Linear","b":"More","c":"Linear","d":"Less"},"correctAnswer":"c"},
-{"question":"The depletion region must be ___________ to allow a large fraction of the incident light to be absorbed in the device(photodiode).","answers":{"a":"Thin","b":"Thick","c":"Inactive","d":"Active"},"correctAnswer":"b"},
-{"question":"Electric field in the depletion region should be?","answers":{"a":"Low","b":"Moderate","c":"Thin","d":"High"},"correctAnswer":"d"}]
-
-
